@@ -14,7 +14,9 @@
 
  使用方法：
  
- 1、使用方法为 python wiki.py http://xxx.xxx.com  JSESSIONID=XXXX
+ 1、使用方法为 python wiki.py 域名 cookie 
+ 
+  如：python wiki.py http://xxx.xxx.com  JSESSIONID=XXXX
  
  2、keyWord.txt存放需要匹配的关键字，内置高频敏感字
  

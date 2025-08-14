@@ -1,5 +1,10 @@
 password
-root
+pass
 pwd
+root
+admin
+密码
 jdbc:
+rtsp:
 mysql:
+安全漏洞
